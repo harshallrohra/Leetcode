@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshallrohra/Leetcode/tree/master/0035-search-insert-position) |
 | [0135-candy](https://github.com/harshallrohra/Leetcode/tree/master/0135-candy) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshallrohra/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/harshallrohra/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshallrohra/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
