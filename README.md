@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harshallrohra/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshallrohra/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/harshallrohra/Leetcode/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshallrohra/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshallrohra/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshallrohra/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshallrohra/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshallrohra/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
