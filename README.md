@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshallrohra/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshallrohra/Leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshallrohra/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshallrohra/Leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
