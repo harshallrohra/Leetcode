@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshallrohra/Leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshallrohra/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/harshallrohra/Leetcode/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/harshallrohra/Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
