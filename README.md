@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshallrohra/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/harshallrohra/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshallrohra/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/harshallrohra/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -167,4 +168,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshallrohra/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
