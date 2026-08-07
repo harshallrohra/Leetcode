@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshallrohra/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/harshallrohra/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshallrohra/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/harshallrohra/Leetcode/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/harshallrohra/Leetcode/tree/master/0135-candy) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshallrohra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshallrohra/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshallrohra/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/harshallrohra/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshallrohra/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/harshallrohra/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshallrohra/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/harshallrohra/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/harshallrohra/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshallrohra/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshallrohra/Leetcode/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
