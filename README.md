@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshallrohra/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/harshallrohra/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/harshallrohra/Leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/harshallrohra/Leetcode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/harshallrohra/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/harshallrohra/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshallrohra/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/harshallrohra/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/harshallrohra/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshallrohra/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harshallrohra/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harshallrohra/Leetcode/tree/master/0994-rotting-oranges) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshallrohra/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshallrohra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/harshallrohra/Leetcode/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/harshallrohra/Leetcode/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/harshallrohra/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshallrohra/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harshallrohra/Leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
