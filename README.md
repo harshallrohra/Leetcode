@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshallrohra/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/harshallrohra/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/harshallrohra/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshallrohra/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshallrohra/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/harshallrohra/Leetcode/tree/master/0125-valid-palindrome) |
 ## Memoization
 |  |
 | ------- |
