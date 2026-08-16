@@ -4,18 +4,15 @@ public:
         if (s.size()!=t.size()){
             return false;
         }
-        unordered_map<char,int> mpp;
-        unordered_map<char,int>npp;
-
-        for(int i = 0 ; i<s.size(); i++){
-            mpp[s[i]]++;
-
+        int freq[26]={0};
+        for(int i = 0 ; i<s.size() ; i++){
+            freq[s[i]-'a']++;
+            freq[t[i]-'a']--;
         }
-        for(int i = 0 ; i<t.size(); i++){
-            npp[t[i]]++;
-            
+        for(int i = 0 ; i<26 ; i++){
+            if (freq[i]!=0) return false;
         }
-        return mpp==npp;
+        return true;
         
     }
 };
