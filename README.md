@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshallrohra/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshallrohra/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/harshallrohra/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshallrohra/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/harshallrohra/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshallrohra/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshallrohra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshallrohra/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshallrohra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshallrohra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -282,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/harshallrohra/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/harshallrohra/Leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/harshallrohra/Leetcode/tree/master/0620-not-boring-movies) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
