@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshallrohra/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshallrohra/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harshallrohra/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/harshallrohra/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
