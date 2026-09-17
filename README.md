@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshallrohra/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/harshallrohra/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/harshallrohra/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/harshallrohra/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/harshallrohra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshallrohra/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshallrohra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshallrohra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshallrohra/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshallrohra/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshallrohra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshallrohra/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/harshallrohra/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harshallrohra/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshallrohra/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/harshallrohra/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshallrohra/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshallrohra/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/harshallrohra/Leetcode/tree/master/1922-count-good-numbers) |
 ## Linked List
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshallrohra/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harshallrohra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -271,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/harshallrohra/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshallrohra/Leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/harshallrohra/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
