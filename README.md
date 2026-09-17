@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harshallrohra/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/harshallrohra/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/harshallrohra/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshallrohra/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshallrohra/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshallrohra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/harshallrohra/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshallrohra/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshallrohra/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshallrohra/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
